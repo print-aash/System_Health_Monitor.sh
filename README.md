@@ -27,20 +27,21 @@ This script is written in **Bash**, so it works on:
 ✔ WSL (Windows Subsystem for Linux)  
 ✔ Git Bash
 
-❌ It does *not* run natively in Windows.
+❌ It does _not_ run natively in Windows.
 
 ---
 
 ## 🚀 How to Run
 
-### Paste in terminal 
-* git clone https://github.com/print-aash/System_Health_Monitor.sh
+### Paste in terminal
 
-* cd System_Health_Monitor.sh
+- git clone https://github.com/print-aash/System_Health_Monitor.sh
 
-* chmod +x System_Health_Monitor.sh
+- cd System_Health_Monitor.sh
 
-* ./System_Health_Monitor.sh
+- chmod +x System_Health_Monitor.sh
+
+- ./System_Health_Monitor.sh
 
 <h1>🛠 Built With Bash</h1>
 <li>
@@ -49,3 +50,4 @@ Standard Linux / macOS system tools
 Basic shell control structures (loops, case statements)
   </ul>
 </li>
+## new add
